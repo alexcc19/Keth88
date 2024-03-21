@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow:
+http://ftp.alexanderlorenzi.com/sitemap.xml
